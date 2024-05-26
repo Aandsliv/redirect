@@ -2,4 +2,4 @@
 
 This is the source for åndsliv.dk
 
-Redirects to https://aandsliv.dk/
+Redirects to https://åndsliv.dk/
